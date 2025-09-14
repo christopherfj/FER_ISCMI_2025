@@ -8,5 +8,4 @@ Dept. of Electrical & Electronic Engineering, Universidad del Bío-Bío, Concepc
 \* Corresponding author  
 
 ## Conference
-Submitted to: [ISCMI 2025](https://www.iscmi.us/index.html)
-
+Submitted to: <a href="https://www.iscmi.us/index.html" target="_blank">ISCMI 2025</a>
